@@ -18,12 +18,12 @@
     * CSS
     * JavaScript 
    
- ***
+***
  
  * My experience
      * [codewars](https://www.codewars.com/users/FaHTa3eP)
    
- ***
+***
  
   * Education
     * htmlbook.ru
