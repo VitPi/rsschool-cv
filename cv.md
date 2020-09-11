@@ -28,6 +28,7 @@
 ***
  
   * Education
+    * RS School
     * htmlbook.ru
     * developer.mozilla.org
     * learn.javascript.ru
