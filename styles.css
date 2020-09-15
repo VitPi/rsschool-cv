@@ -53,7 +53,7 @@ hr:after {
 
 a[href^="mailto"]::after {
     content: '\1F4E9'; /* Иконка */
-    padding-left: 5px; /* Расстояние от иконки до текста */
+    padding-left: 5px; /*  Расстояние от иконки до текста */
     vertical-align: text-bottom; /* Выравнивание по вертикали */
     font-size: 1em; /* Размер иконки */
 }
