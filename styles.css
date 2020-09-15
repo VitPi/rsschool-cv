@@ -11,7 +11,7 @@
 body {
     max-width: 1024px;
     margin: 1em auto;
-    background: #efababa8;
+    background: #ffffff;
 }
 
 header {
@@ -45,7 +45,7 @@ hr {
 }
 
 hr:after {
-    background: #efababa8;
+    background: #ffffff;
     content: '§';
     padding: 0 4px;
     position: relative;
@@ -58,6 +58,7 @@ a[href^="mailto"]::after {
     vertical-align: text-bottom; /* Выравнивание по вертикали */
     font-size: 1em; /* Размер иконки */
 }
+
 a[href^="tel"]::after {
     content: '\1F4F2';
     padding-left: 5px;
