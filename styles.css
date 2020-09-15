@@ -11,7 +11,7 @@
 body {
     max-width: 1024px;
     margin: 1em auto;
-    background: #efababa8;
+    background: #ffffff;
 }
 
 header {
@@ -45,7 +45,7 @@ hr {
 }
 
 hr:after {
-    background: #efababa8;
+    background: #ffffff;
     content: '§';
     padding: 0 4px;
     position: relative;
